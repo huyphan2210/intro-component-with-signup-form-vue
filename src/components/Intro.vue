@@ -14,7 +14,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 2rem;
+    padding: 0 2rem 0 0;
 }
     h1 {
         font-size: 3rem;
@@ -23,6 +23,7 @@
 @media screen and (max-aspect-ratio: 1 / 1) {
 .intro {
     text-align: center;
+    padding: 2rem;
 }
     h1 {
         font-size: 2rem;

@@ -2,6 +2,7 @@
 
 main {
   font-family: Poppins, sans-serif;
+  width: 80%;
   max-width: 1024px;
   display: grid;
   grid-template-columns: 50% 50%;
@@ -9,6 +10,7 @@ main {
 
 @media screen and (max-aspect-ratio: 1 / 1) {
   main {
+    width: 100%;
     grid-template-columns: auto;
   }
 }
