@@ -1,0 +1,18 @@
+body {
+    min-height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0, 100%, 74%);
+    background-image: url(./src/assets/images/bg-intro-desktop.png);
+    background-blend-mode: multiply;
+}
+
+footer {
+    position: fixed;
+    bottom: 1vh;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
