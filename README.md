@@ -1,4 +1,4 @@
-# Frontend Mentor - Intro component with sign up form
+# Frontend Mentor - Intro component with sign up form - Finished by Huy Phan
 
 ![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
 
